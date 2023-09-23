@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?x1myw0');
+  src:  url('fonts/icomoon.eot?x1myw0#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?x1myw0') format('truetype'),
+    url('fonts/icomoon.woff?x1myw0') format('woff'),
+    url('fonts/icomoon.svg?x1myw0#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mail2:before {
+  content: "\e90c";
+}
+.icon-envelope:before {
+  content: "\e905";
+}
+.icon-home:before {
+  content: "\e900";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-sphere:before {
+  content: "\e9c9";
+}
+.icon-mail:before {
+  content: "\ea83";
+}
+.icon-mail4:before {
+  content: "\ea86";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-envelope2:before {
+  content: "\e90b";
+}
+.icon-mail-envelope-closed:before {
+  content: "\e902";
+}
+.icon-mail-envelope-closed1:before {
+  content: "\e903";
+}
+.icon-mail-envelope-closed2:before {
+  content: "\e904";
+}
+.icon-mail_outline:before {
+  content: "\e909";
+}
+.icon-email:before {
+  content: "\e90a";
+}
+.icon-mail1:before {
+  content: "\e906";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-envelope-o:before {
+  content: "\e907";
+}
+.icon-envelope1:before {
+  content: "\e908";
+}
+.icon-graduation-cap:before {
+  content: "\e901";
+}
