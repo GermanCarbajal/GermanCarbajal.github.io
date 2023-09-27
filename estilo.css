@@ -95,7 +95,11 @@ nav span{
 	position: relative;
 	display: grid;
 	justify-content: center;
+	text-align: justify;
+	letter-spacing: 0.5px;
+	line-height: 40px;
 	padding: 10px;
+	
 }
 
 .imagen{
